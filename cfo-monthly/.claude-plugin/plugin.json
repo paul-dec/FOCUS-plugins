@@ -1,0 +1,9 @@
+{
+  "name": "cfo-monthly",
+  "version": "0.1.0",
+  "description": "Génère et envoie chaque mois à Robin le rapport CFO mensuel complet (priorité stratégique, MRR, P&L par squad, marge brute par client, indicateurs business model, cash flow, BFR, charges, impayés) depuis Notion.",
+  "author": {
+    "name": "Robin Berezowa"
+  },
+  "keywords": ["cfo", "monthly", "notion", "gmail", "finance", "reporting", "p&l", "mrr", "cash-flow", "bfr"]
+}

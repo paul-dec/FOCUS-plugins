@@ -18,6 +18,11 @@
       "name": "cfo-hebdo-mardi",
       "source": "./cfo-hebdo-mardi",
       "description": "Génère chaque mardi un brouillon Gmail à Robin avec le rapport CFO hebdo (impayés, MRR par squad, factures manquantes, projets ponctuels non facturés), depuis la base Notion ADMIN - SUIVI TEAM."
+    },
+    {
+      "name": "cfo-monthly",
+      "source": "./cfo-monthly",
+      "description": "Génère et envoie chaque mois à Robin le rapport CFO mensuel complet (priorité stratégique, MRR, P&L par squad, marge brute par client, indicateurs business model, cash flow, BFR, charges, impayés) depuis Notion."
     }
   ]
 }
