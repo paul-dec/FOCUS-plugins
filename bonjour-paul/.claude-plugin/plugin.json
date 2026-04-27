@@ -1,0 +1,9 @@
+{
+  "name": "bonjour-paul",
+  "version": "0.1.0",
+  "description": "Crée automatiquement chaque jour un événement Google Calendar 'BONJOUR PAUL' pour le lendemain à 9h, d'une durée d'1 heure.",
+  "author": {
+    "name": "Paul Decrosse"
+  },
+  "keywords": ["calendar", "google-calendar", "automatisation", "quotidien"]
+}
