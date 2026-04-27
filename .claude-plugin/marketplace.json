@@ -13,6 +13,11 @@
       "name": "point-facturation-hebdo-lundi",
       "source": "./point-facturation-hebdo-lundi",
       "description": "Envoie chaque lundi matin à Robin un DM Slack avec le suivi des factures en retard, depuis le tableau Notion ADMIN - SUIVI TEAM."
+    },
+    {
+      "name": "cfo-hebdo-mardi",
+      "source": "./cfo-hebdo-mardi",
+      "description": "Génère chaque mardi un brouillon Gmail à Robin avec le rapport CFO hebdo (impayés, MRR par squad, factures manquantes, projets ponctuels non facturés), depuis la base Notion ADMIN - SUIVI TEAM."
     }
   ]
 }
