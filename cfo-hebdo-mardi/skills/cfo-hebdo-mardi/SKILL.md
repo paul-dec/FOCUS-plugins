@@ -18,25 +18,10 @@ Lire les données Notion, calculer les KPI et alertes définis ci-dessous, puis 
 
 # SOURCE DE DONNÉES (UNIQUE)
 
+> Lire `NOTION.md` pour le Database ID, le Data source URL, et le schéma complet de `ADMIN - SUIVI TEAM`.
+
 **Une seule base Notion** est à utiliser : **ADMIN - SUIVI TEAM**.
-
-- Database ID : `34f1716d-f23c-80d0-b9e3-e9eb069a148d`
-- Data source URL : `collection://2e61716d-f23c-80e7-b114-000b8e4ec430`
-
 Les bases SQUAD DIANA / SQUAD AXELLE sont des dashboards internes — **ne pas les utiliser**.
-
-Pour interroger : `notion-fetch` sur `collection://2e61716d-f23c-80e7-b114-000b8e4ec430` ou `notion-search` avec ce data_source_url.
-
-## Schéma utile
-
-- **NAME** (title) — nom de la facture/ligne
-- **CLIENT** (relation) — client lié
-- **N° FACTURE** (text) — numéro de facture (vide = pas encore émise)
-- **RÈGLEMENT** (select) : `À FACTURER` | `0 - TO BE PAID` | `1 - PAID` | `2 - LATE`
-- **TYPE** (select) : `MONTHLY` | `ONE-SHOT`
-- **DATE** (date) — date prévue / d'émission de la facture (sert d'échéance pour le calcul du retard)
-- **TOTAL CA** (euro) — montant HT
-- **PROJECT MANAGER** (person) — **identifie la squad**
 
 # IDENTIFICATION DES SQUADS via PROJECT MANAGER
 

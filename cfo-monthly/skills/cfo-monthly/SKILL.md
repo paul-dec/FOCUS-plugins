@@ -21,14 +21,11 @@ Produire un rapport CFO complet sur le mois précédent (M-1) à partir des donn
 
 > Lire `NOTION.md` à la racine du projet pour la liste complète des membres, leurs emails, et les bases de données Notion disponibles.
 
-**Squads à suivre :**
-
-- Squad Diana (lead : Diana Holczinger) — inclut Inès Vigneras
-- Squad Axelle (lead : Axelle Delanoë)
+**Squads à suivre :** Squad Diana et Squad Axelle — voir `NOTION.md` pour la composition.
 
 **Sources de données (Notion uniquement) :**
 
-1. Base `ADMIN - SUIVI TEAM` : calendrier de facturation, paiements, impayés, dates d'échéance, avoirs
+1. `ADMIN - SUIVI TEAM` : calendrier de facturation, paiements, impayés, dates d'échéance, avoirs
 2. Base CA par squad (Diana / Axelle) : CA réalisé + coûts de production par client
 3. Base saisies Laura : salaires chargés par squad + commissions d'apport d'affaires
 

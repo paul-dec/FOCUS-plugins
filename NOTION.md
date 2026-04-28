@@ -55,6 +55,22 @@ Pour les autres membres, le matching se fait via le nom complet ou l'email retou
 Suivi de la facturation clients : factures émises, statuts de règlement, retards.
 Utiliser ce tableau pour tout ce qui concerne les paiements, les impayés, le chiffre d'affaires.
 
+- **Database ID** : `34f1716d-f23c-80d0-b9e3-e9eb069a148d`
+- **Data source URL** : `collection://2e61716d-f23c-80e7-b114-000b8e4ec430`
+
+Schéma des champs :
+
+| Champ | Type | Valeurs / Notes |
+|-------|------|-----------------|
+| NAME | title | nom de la facture / ligne |
+| CLIENT | relation | client lié |
+| N° FACTURE | text | numéro de facture (vide = pas encore émise) |
+| RÈGLEMENT | select | `À FACTURER` · `0 - TO BE PAID` · `1 - PAID` · `2 - LATE` |
+| TYPE | select | `MONTHLY` · `ONE-SHOT` |
+| DATE | date | date prévue / d'émission (sert d'échéance pour le calcul du retard) |
+| TOTAL CA | euro | montant HT |
+| PROJECT MANAGER | person | identifie la squad (voir section Squads) |
+
 ### Fiches clients — `ADMIN - DATABASE - CLIENT`
 Une fiche par client, avec les informations visibles côté client uniquement.
 
