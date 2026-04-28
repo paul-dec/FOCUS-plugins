@@ -40,24 +40,9 @@ Pour interroger : `notion-fetch` sur `collection://2e61716d-f23c-80e7-b114-000b8
 
 # IDENTIFICATION DES SQUADS via PROJECT MANAGER
 
-> Lire `NOTION.md` à la racine du projet pour la liste complète des membres et leurs emails.
+> Lire `NOTION.md` à la racine du projet pour la composition des squads, les emails et les User IDs Notion des membres.
 
-Récupère le nom et/ou email du PROJECT MANAGER de chaque ligne. Mappe selon ce tableau :
-
-| Personne | Squad |
-|---|---|
-| Diana Holczinger | **Diana** |
-| Inès Vigneras | **Diana** |
-| Axelle Delanoë | **Axelle** |
-| Tous les autres membres | Non-squad |
-
-User IDs Notion connus :
-
-- Diana : `0139b7a3-0008-4060-b881-861897886f23`
-- Inès : `272d872b-594c-812e-a9a0-0002d16539a7`
-- Axelle : `0285aba8-49db-420b-adad-8809a9cee813`
-
-Pour les autres, le matching se fait via le nom complet ou l'email retourné par Notion. Toute ligne avec PROJECT MANAGER hors de ce tableau (ou vide) → catégorie "Non assigné" listée à part.
+Récupère le nom et/ou email du PROJECT MANAGER de chaque ligne et mappe-le à sa squad selon `NOTION.md`. Toute ligne avec PROJECT MANAGER hors-squad ou vide → catégorie "Non assigné" listée à part.
 
 # CONTENU DU RAPPORT (français, ton direct et factuel, pas de blabla)
 

@@ -37,6 +37,16 @@ Les squads sont les équipes internes de FOCUS. Chaque squad est identifiée par
 
 Les membres non listés dans une squad (Anton, Wesley, Lisa, Amélie, Stella, Robin) sont considérés hors-squad.
 
+### User IDs Notion
+
+| Membre | User ID Notion |
+|--------|---------------|
+| Diana Holczinger | `0139b7a3-0008-4060-b881-861897886f23` |
+| Inès Vigneras | `272d872b-594c-812e-a9a0-0002d16539a7` |
+| Axelle Delanoë | `0285aba8-49db-420b-adad-8809a9cee813` |
+
+Pour les autres membres, le matching se fait via le nom complet ou l'email retourné par Notion.
+
 ---
 
 ## Bases de données Notion importantes
