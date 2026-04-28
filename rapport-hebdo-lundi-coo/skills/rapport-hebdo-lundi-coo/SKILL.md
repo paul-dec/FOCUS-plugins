@@ -13,7 +13,7 @@ Exécuter le rapport opérationnel du lundi (qui combine **le quotidien** + **le
 
 Langue : français. Ton : direct et factuel. Hiérarchie des alertes : 🔴 URGENT / 🟠 IMPORTANT / 🟢 INFO. Actions recommandées **uniquement** sur les alertes URGENT.
 
-> Pour la liste des membres, leurs emails et les bases Notion disponibles, lire `NOTION.md` à la racine du projet.
+> Pour la liste des membres, leurs emails et les bases Notion disponibles, lire la page Notion **NOTION CLAUDE** (`https://www.notion.so/wearefocus/NOTION-CLAUDE-3501716df23c809aa8e7f7a7ef9245c7`) via le MCP Notion.
 
 ⚠️ **Exclusion stricte** : Anton Naimi, Amélie, Lisa, Stella ne doivent **jamais** apparaître dans le rapport.
 

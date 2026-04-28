@@ -11,7 +11,7 @@ metadata:
 
 Calculer et maintenir la liste des **Top 10 comptes clés** de FOCUS, définis comme les 10 clients avec le plus gros **CA cumulé historique**. La source unique est Notion (le brief original mentionnait Pennylane mais toutes les informations financières sont en réalité dans Notion).
 
-> Pour la liste des bases Notion disponibles (notamment la base où sont consolidés les CA clients), lire `NOTION.md` à la racine du projet.
+> Pour la liste des bases Notion disponibles (notamment la base où sont consolidés les CA clients), lire la page Notion **NOTION CLAUDE** (`https://www.notion.so/wearefocus/NOTION-CLAUDE-3501716df23c809aa8e7f7a7ef9245c7`) via le MCP Notion.
 
 ⚠️ Recalcul **mensuel uniquement** (pas quotidien) — pour des raisons de performance et parce que le ranking ne bouge pas significativement d'un jour à l'autre.
 

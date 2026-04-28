@@ -13,7 +13,7 @@ metadata:
 
 Maintenir et fournir, pour chaque client (en priorité les Top 10 comptes clés), une **baseline** de son comportement habituel sur Slack. Les baselines servent à détecter les **anomalies relatives** (écart à la normale du client), pas des seuils absolus.
 
-> Pour la liste des bases Notion disponibles et la base "Baselines clients" dédiée, lire `NOTION.md` à la racine du projet.
+> Pour la liste des bases Notion disponibles et la base "Baselines clients" dédiée, lire la page Notion **NOTION CLAUDE** (`https://www.notion.so/wearefocus/NOTION-CLAUDE-3501716df23c809aa8e7f7a7ef9245c7`) via le MCP Notion.
 
 ⚠️ **Exclusion stricte** : ne pas calculer de baseline pour Anton Naimi, Amélie, Lisa, Stella si présents dans des données historiques.
 

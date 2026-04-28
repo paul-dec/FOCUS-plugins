@@ -13,7 +13,7 @@ metadata:
 
 Gérer la **mémoire long terme** de l'agent COO : alertes émises, patterns découverts, sujets récurrents, anti-doublons URGENT. Ce skill est appelé en lecture et en écriture par les 3 skills de rapport.
 
-> Pour la liste des bases Notion disponibles (et notamment les bases d'historique dédiées à l'agent), lire `NOTION.md` à la racine du projet.
+> Pour la liste des bases Notion disponibles (et notamment les bases d'historique dédiées à l'agent), lire la page Notion **NOTION CLAUDE** (`https://www.notion.so/wearefocus/NOTION-CLAUDE-3501716df23c809aa8e7f7a7ef9245c7`) via le MCP Notion.
 
 ## Bases Notion gérées par ce skill
 

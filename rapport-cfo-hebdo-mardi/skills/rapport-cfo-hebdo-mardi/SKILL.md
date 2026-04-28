@@ -18,16 +18,16 @@ Lire les données Notion, calculer les KPI et alertes définis ci-dessous, puis 
 
 # SOURCE DE DONNÉES (UNIQUE)
 
-> Lire `NOTION.md` pour le Database ID, le Data source URL, et le schéma complet de `ADMIN - SUIVI TEAM`.
+> Lire la page Notion **NOTION CLAUDE** (`https://www.notion.so/wearefocus/NOTION-CLAUDE-3501716df23c809aa8e7f7a7ef9245c7`) via le MCP Notion pour le Database ID, le Data source URL, et le schéma complet de `ADMIN - SUIVI TEAM`.
 
 **Une seule base Notion** est à utiliser : **ADMIN - SUIVI TEAM**.
 Les bases SQUAD DIANA / SQUAD AXELLE sont des dashboards internes — **ne pas les utiliser**.
 
 # IDENTIFICATION DES SQUADS via PROJECT MANAGER
 
-> Lire `NOTION.md` à la racine du projet pour la composition des squads, les emails et les User IDs Notion des membres.
+> Lire la page Notion **NOTION CLAUDE** (`https://www.notion.so/wearefocus/NOTION-CLAUDE-3501716df23c809aa8e7f7a7ef9245c7`) via le MCP Notion pour la composition des squads, les emails et les User IDs Notion des membres.
 
-Récupère le nom et/ou email du PROJECT MANAGER de chaque ligne et mappe-le à sa squad selon `NOTION.md`. Toute ligne avec PROJECT MANAGER hors-squad ou vide → catégorie "Non assigné" listée à part.
+Récupère le nom et/ou email du PROJECT MANAGER de chaque ligne et mappe-le à sa squad selon la page Notion **NOTION CLAUDE**. Toute ligne avec PROJECT MANAGER hors-squad ou vide → catégorie "Non assigné" listée à part.
 
 # CONTENU DU RAPPORT (français, ton direct et factuel, pas de blabla)
 

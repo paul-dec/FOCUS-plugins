@@ -19,9 +19,9 @@ Produire un rapport CFO complet sur le mois précédent (M-1) à partir des donn
 
 ## Contexte FOCUS
 
-> Lire `NOTION.md` à la racine du projet pour la liste complète des membres, leurs emails, et les bases de données Notion disponibles.
+> Lire la page Notion **NOTION CLAUDE** (`https://www.notion.so/wearefocus/NOTION-CLAUDE-3501716df23c809aa8e7f7a7ef9245c7`) via le MCP Notion pour la liste complète des membres, leurs emails, et les bases de données Notion disponibles.
 
-**Squads à suivre :** Squad Diana et Squad Axelle — voir `NOTION.md` pour la composition.
+**Squads à suivre :** Squad Diana et Squad Axelle — voir la page Notion **NOTION CLAUDE** pour la composition.
 
 **Sources de données (Notion uniquement) :**
 

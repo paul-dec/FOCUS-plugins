@@ -12,7 +12,7 @@ metadata:
 
 Traiter les feedbacks emoji "inutile" laissés par Robin sur les alertes Slack envoyées par l'agent COO, et **ajuster la sensibilité de l'agent** sur les types d'alertes concernés.
 
-> Pour la liste des bases Notion disponibles (notamment "Feedbacks inutile" et "Alertes émises"), lire `NOTION.md` à la racine du projet.
+> Pour la liste des bases Notion disponibles (notamment "Feedbacks inutile" et "Alertes émises"), lire la page Notion **NOTION CLAUDE** (`https://www.notion.so/wearefocus/NOTION-CLAUDE-3501716df23c809aa8e7f7a7ef9245c7`) via le MCP Notion.
 
 ⚠️ **Pas de feedback "utile" requis** — seul le marquage négatif est pris en compte (sinon trop de friction pour Robin).
 
