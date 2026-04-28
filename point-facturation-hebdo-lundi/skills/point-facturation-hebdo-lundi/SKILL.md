@@ -11,6 +11,8 @@ metadata:
 
 Exécuter le point de facturation hebdomadaire et envoyer le résultat en DM Slack à Robin (robin@wearefocus.co).
 
+> Pour la liste des membres, leurs emails et les bases Notion disponibles, lire `NOTION.md` à la racine du projet.
+
 ## Étape 1 — Localiser la base Notion et la vue "Factures en retard"
 
 Utiliser `mcp__bd831d95-075e-4c78-8282-1fdd76756c46__notion-search` avec la query `"ADMIN - SUIVI TEAM"` pour trouver la base de données.

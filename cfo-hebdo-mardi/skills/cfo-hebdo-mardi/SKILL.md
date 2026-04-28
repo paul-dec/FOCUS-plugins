@@ -40,19 +40,16 @@ Pour interroger : `notion-fetch` sur `collection://2e61716d-f23c-80e7-b114-000b8
 
 # IDENTIFICATION DES SQUADS via PROJECT MANAGER
 
+> Lire `NOTION.md` à la racine du projet pour la liste complète des membres et leurs emails.
+
 Récupère le nom et/ou email du PROJECT MANAGER de chaque ligne. Mappe selon ce tableau :
 
-| Personne | Email | Squad |
-|---|---|---|
-| Diana Holczinger | [diana@wearefocus.co](mailto:diana@wearefocus.co) | **Diana** |
-| Inès Vigneras | [ines@wearefocus.co](mailto:ines@wearefocus.co) | **Diana** |
-| Axelle Delanoë | [axelle@wearefocus.co](mailto:axelle@wearefocus.co) | **Axelle** |
-| Anton Naimi | [anton@wearefocus.co](mailto:anton@wearefocus.co) | Non-squad |
-| Wesley Ibouroi | [wesley@wearefocus.co](mailto:wesley@wearefocus.co) | Non-squad |
-| Lisa Lauri | [lisa@wearefocus.co](mailto:lisa@wearefocus.co) | Non-squad |
-| Amélie Oudinot | [amelie@wearefocus.co](mailto:amelie@wearefocus.co) | Non-squad |
-| Stella Baruchello | [stella@wearefocus.co](mailto:stella@wearefocus.co) | Non-squad |
-| Robin Berezowa | [robin@wearefocus.co](mailto:robin@wearefocus.co) | Non-squad |
+| Personne | Squad |
+|---|---|
+| Diana Holczinger | **Diana** |
+| Inès Vigneras | **Diana** |
+| Axelle Delanoë | **Axelle** |
+| Tous les autres membres | Non-squad |
 
 User IDs Notion connus :
 

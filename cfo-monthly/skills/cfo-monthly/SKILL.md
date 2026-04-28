@@ -19,10 +19,12 @@ Produire un rapport CFO complet sur le mois précédent (M-1) à partir des donn
 
 ## Contexte FOCUS
 
+> Lire `NOTION.md` à la racine du projet pour la liste complète des membres, leurs emails, et les bases de données Notion disponibles.
+
 **Squads à suivre :**
 
-- Squad Diana (lead : Diana Holczinger) — Diana, Marion Gueutal, Inès Vigneras, Sanya Lepère
-- Squad Axelle (lead : Axelle Delanoë) — Axelle, Clément Brhr, Laura, Mareva
+- Squad Diana (lead : Diana Holczinger) — inclut Inès Vigneras
+- Squad Axelle (lead : Axelle Delanoë)
 
 **Sources de données (Notion uniquement) :**
 
