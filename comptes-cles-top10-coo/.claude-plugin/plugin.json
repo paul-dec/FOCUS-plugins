@@ -1,0 +1,9 @@
+{
+  "name": "comptes-cles-top10-coo",
+  "version": "0.1.0",
+  "description": "Calcule et maintient mensuellement la liste des Top 10 comptes clés FOCUS par CA cumulé historique, avec versioning et détection des entrées/sorties.",
+  "author": {
+    "name": "Paul Decrosse"
+  },
+  "keywords": ["coo", "comptes-cles", "top10", "notion", "ca", "ranking"]
+}

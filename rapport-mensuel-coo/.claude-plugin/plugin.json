@@ -1,0 +1,9 @@
+{
+  "name": "rapport-mensuel-coo",
+  "version": "0.1.0",
+  "description": "Envoie chaque 1er du mois à Robin un DM Slack avec le rapport COO mensuel (priorités ops, top/low performers, sujets récurrents, alertes du mois, signaux faibles, patterns, baselines comptes clés).",
+  "author": {
+    "name": "Paul Decrosse"
+  },
+  "keywords": ["coo", "ops", "slack", "notion", "reporting", "mensuel", "performers", "baselines"]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "baseline-clients-coo",
+  "version": "0.1.0",
+  "description": "Maintient et fournit les baselines comportementales des clients (temps de réponse, tonalité, volume, cadence) pour détecter les anomalies relatives.",
+  "author": {
+    "name": "Paul Decrosse"
+  },
+  "keywords": ["coo", "baseline", "notion", "slack", "anomalies", "clients"]
+}

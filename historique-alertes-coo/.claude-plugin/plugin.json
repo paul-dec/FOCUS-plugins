@@ -1,0 +1,9 @@
+{
+  "name": "historique-alertes-coo",
+  "version": "0.1.0",
+  "description": "Mémoire long terme de l'agent COO : alertes émises, patterns découverts, sujets récurrents, anti-doublons URGENT. Appelé en lecture/écriture par les skills de rapport.",
+  "author": {
+    "name": "Paul Decrosse"
+  },
+  "keywords": ["coo", "historique", "alertes", "notion", "patterns", "memoire"]
+}

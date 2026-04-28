@@ -5,11 +5,6 @@
   },
   "plugins": [
     {
-      "name": "bonjour-paul",
-      "source": "./bonjour-paul",
-      "description": "Crée automatiquement chaque jour un événement Google Calendar 'BONJOUR PAUL' pour le lendemain à 9h, d'une durée d'1 heure."
-    },
-    {
       "name": "point-facturation-hebdo-lundi",
       "source": "./point-facturation-hebdo-lundi",
       "description": "Envoie chaque lundi matin à Robin un DM Slack avec le suivi des factures en retard, depuis le tableau Notion ADMIN - SUIVI TEAM."
@@ -23,6 +18,41 @@
       "name": "cfo-monthly",
       "source": "./cfo-monthly",
       "description": "Génère et envoie chaque mois à Robin le rapport CFO mensuel complet (priorité stratégique, MRR, P&L par squad, marge brute par client, indicateurs business model, cash flow, BFR, charges, impayés) depuis Notion."
+    },
+    {
+      "name": "rapport-quotidien-coo",
+      "source": "./rapport-quotidien-coo",
+      "description": "Envoie chaque matin du mardi au vendredi à Robin un DM Slack avec le rapport opérationnel quotidien (activité squads/CS, alertes URGENT/IMPORTANT/INFO, signaux faibles)."
+    },
+    {
+      "name": "rapport-hebdo-lundi-coo",
+      "source": "./rapport-hebdo-lundi-coo",
+      "description": "Envoie chaque lundi à Robin un DM Slack avec le rapport opérationnel hebdo (quotidien + signaux faibles, onboardings, patterns), fenêtre Slack étendue vendredi-lundi."
+    },
+    {
+      "name": "rapport-mensuel-coo",
+      "source": "./rapport-mensuel-coo",
+      "description": "Envoie chaque 1er du mois à Robin un DM Slack avec le rapport COO mensuel (priorités ops, top/low performers, sujets récurrents, alertes du mois, signaux faibles, patterns, baselines comptes clés)."
+    },
+    {
+      "name": "baseline-clients-coo",
+      "source": "./baseline-clients-coo",
+      "description": "Maintient et fournit les baselines comportementales des clients (temps de réponse, tonalité, volume, cadence) pour détecter les anomalies relatives."
+    },
+    {
+      "name": "comptes-cles-top10-coo",
+      "source": "./comptes-cles-top10-coo",
+      "description": "Calcule et maintient mensuellement la liste des Top 10 comptes clés FOCUS par CA cumulé historique."
+    },
+    {
+      "name": "historique-alertes-coo",
+      "source": "./historique-alertes-coo",
+      "description": "Mémoire long terme de l'agent COO : alertes émises, patterns découverts, sujets récurrents, anti-doublons URGENT."
+    },
+    {
+      "name": "feedback-inutile-coo",
+      "source": "./feedback-inutile-coo",
+      "description": "Traite les feedbacks emoji 'inutile' de Robin sur les alertes COO et ajuste dynamiquement les seuils de sensibilité de l'agent."
     }
   ]
 }

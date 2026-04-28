@@ -1,0 +1,9 @@
+{
+  "name": "rapport-quotidien-coo",
+  "version": "0.1.0",
+  "description": "Envoie chaque matin du mardi au vendredi à Robin un DM Slack avec le rapport opérationnel quotidien (activité squads/CS, alertes URGENT/IMPORTANT/INFO, signaux faibles), depuis Notion et Slack.",
+  "author": {
+    "name": "Paul Decrosse"
+  },
+  "keywords": ["coo", "ops", "slack", "notion", "reporting", "quotidien", "alertes"]
+}

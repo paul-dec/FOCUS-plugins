@@ -1,0 +1,9 @@
+{
+  "name": "rapport-hebdo-lundi-coo",
+  "version": "0.1.0",
+  "description": "Envoie chaque lundi à Robin un DM Slack avec le rapport opérationnel hebdo (quotidien + signaux faibles, onboardings, patterns), fenêtre Slack étendue vendredi-lundi.",
+  "author": {
+    "name": "Paul Decrosse"
+  },
+  "keywords": ["coo", "ops", "slack", "notion", "reporting", "hebdo", "lundi", "patterns"]
+}

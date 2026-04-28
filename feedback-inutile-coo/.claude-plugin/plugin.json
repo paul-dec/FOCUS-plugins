@@ -1,0 +1,9 @@
+{
+  "name": "feedback-inutile-coo",
+  "version": "0.1.0",
+  "description": "Traite les feedbacks emoji 'inutile' (👎/🚫) de Robin sur les alertes COO et ajuste dynamiquement les seuils de sensibilité de l'agent.",
+  "author": {
+    "name": "Paul Decrosse"
+  },
+  "keywords": ["coo", "feedback", "slack", "notion", "apprentissage", "seuils"]
+}
