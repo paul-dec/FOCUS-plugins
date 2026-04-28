@@ -1,5 +1,5 @@
 {
-  "name": "cfo-monthly",
+  "name": "rapport-cfo-mensuel",
   "version": "0.1.0",
   "description": "Génère et envoie chaque mois à Robin le rapport CFO mensuel complet (priorité stratégique, MRR, P&L par squad, marge brute par client, indicateurs business model, cash flow, BFR, charges, impayés) depuis Notion.",
   "author": {

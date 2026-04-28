@@ -1,5 +1,5 @@
 {
-  "name": "cfo-hebdo-mardi",
+  "name": "rapport-cfo-hebdo-mardi",
   "version": "0.1.0",
   "description": "Génère chaque mardi un brouillon Gmail à Robin avec le rapport CFO hebdo (impayés, MRR par squad, factures manquantes), depuis la base Notion ADMIN - SUIVI TEAM.",
   "author": {

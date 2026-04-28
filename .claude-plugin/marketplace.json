@@ -5,18 +5,18 @@
   },
   "plugins": [
     {
-      "name": "point-facturation-hebdo-lundi",
-      "source": "./point-facturation-hebdo-lundi",
+      "name": "rapport-facturation-hebdo-lundi",
+      "source": "./rapport-facturation-hebdo-lundi",
       "description": "Envoie chaque lundi matin à Robin un DM Slack avec le suivi des factures en retard, depuis le tableau Notion ADMIN - SUIVI TEAM."
     },
     {
-      "name": "cfo-hebdo-mardi",
-      "source": "./cfo-hebdo-mardi",
+      "name": "rapport-cfo-hebdo-mardi",
+      "source": "./rapport-cfo-hebdo-mardi",
       "description": "Génère chaque mardi un brouillon Gmail à Robin avec le rapport CFO hebdo (impayés, MRR par squad, factures manquantes, projets ponctuels non facturés), depuis la base Notion ADMIN - SUIVI TEAM."
     },
     {
-      "name": "cfo-monthly",
-      "source": "./cfo-monthly",
+      "name": "rapport-cfo-mensuel",
+      "source": "./rapport-cfo-mensuel",
       "description": "Génère et envoie chaque mois à Robin le rapport CFO mensuel complet (priorité stratégique, MRR, P&L par squad, marge brute par client, indicateurs business model, cash flow, BFR, charges, impayés) depuis Notion."
     },
     {

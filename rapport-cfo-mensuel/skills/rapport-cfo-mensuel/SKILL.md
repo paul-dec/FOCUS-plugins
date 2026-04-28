@@ -1,5 +1,5 @@
 ---
-name: cfo-monthly
+name: rapport-cfo-mensuel
 description: >
   Ce skill doit être utilisé quand l'utilisateur demande le "rapport CFO mensuel",
   "CFO MONTHLY", "rapport CFO du mois", "envoie le rapport CFO mensuel à Robin",

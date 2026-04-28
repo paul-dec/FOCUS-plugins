@@ -1,5 +1,5 @@
 ---
-name: point-facturation-hebdo-lundi
+name: rapport-facturation-hebdo-lundi
 description: >
   Ce skill doit être utilisé quand l'utilisateur demande le "point facturation
   hebdo", "POINT FACTURATION HEBDO LUNDI", "envoie le suivi des factures à Robin",

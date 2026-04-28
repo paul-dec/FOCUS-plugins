@@ -1,5 +1,5 @@
 ---
-name: cfo-hebdo-mardi
+name: rapport-cfo-hebdo-mardi
 description: >
   Ce skill doit être utilisé quand l'utilisateur demande le "rapport CFO hebdo",
   "CFO HEBDO MARDI", "rapport CFO mardi", "envoie le rapport CFO à Robin",
