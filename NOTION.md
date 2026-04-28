@@ -19,6 +19,10 @@ Lire ce fichier en début d'exécution évite de redéfinir le contexte dans cha
 | Stella Baruchello | stella@wearefocus.co |
 | Robin Berezowa | robin@wearefocus.co |
 | Clément Brhr | clement@wearefocus.co |
+| Laura Renault | laura@wearefocus.co |
+| Maréva Giovannetti | mareva@wearefocus.co |
+| Marion Gueutal | marion@wearefocus.co |
+| Sanya Lepère | sanya@wearefocus.co |
 
 ---
 
@@ -28,8 +32,8 @@ Les squads sont les équipes internes de FOCUS. Chaque squad est identifiée par
 
 | Squad | Membres |
 |-------|---------|
-| **Squad Axelle** | Axelle Delanoë, Clément Brhr |
-| **Squad Diana** | Diana Holczinger, Inès Vigneras |
+| **Squad Axelle** | Axelle Delanoë, Clément Brhr, Laura Renault, Maréva Giovannetti |
+| **Squad Diana** | Diana Holczinger, Inès Vigneras, Marion Gueutal, Sanya Lepère |
 
 Les membres non listés dans une squad (Anton, Wesley, Lisa, Amélie, Stella, Robin) sont considérés hors-squad.
 
